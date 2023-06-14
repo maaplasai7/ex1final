@@ -139,7 +139,8 @@ endmodule
 
 
 ## RTL Schematic:
-![3b9c7866-b9ba-4a46-8299-3f36411785ab](https://github.com/maaplasai7/ex1final/assets/134155273/5cb6d314-ce85-4564-8c01-8b575e912e24)
+![nor](https://github.com/maaplasai7/ex1final/assets/134155273/97d1335b-678e-4674-8451-11228b28458b)
+
 
 
 
